@@ -1,1 +1,1 @@
-Sociopedia - Frontend of the application using React.
+SociaVista -  MERN Stack application .
